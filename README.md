@@ -11,3 +11,5 @@ A lightweight 2D linkage simulator for Windows.
 Create fixed and moving pivots, connect them with constrained links,
  measure angles, add travel limits and interactively simulate mechanisms 
 such as bicycle suspension systems.
+
+![GUI](./Screenshots/Kinematics.png)
